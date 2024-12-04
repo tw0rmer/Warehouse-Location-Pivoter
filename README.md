@@ -94,10 +94,10 @@ A robust Windows Forms-based application designed for inventory management, filt
 ## 📷 Screenshots
 
 ### Application Interface
-![Application Interface](./screenshots/app_interface.png)
+![Application Interface](app_interface.png)
 
 ### Filtered Data Export (Modern Style)
-![HTML Export - Modern Style](./screenshots/html_export_modern.png)
+![HTML Export - Modern Style](html_export_modern.png)
 
 ---
 
